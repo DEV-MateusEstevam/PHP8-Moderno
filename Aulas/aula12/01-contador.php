@@ -13,9 +13,7 @@
             echo "$c ";
             $c++;
         } while($c<=10);
-        
     ?>
 </div>
 </body>
 </html>
- 
