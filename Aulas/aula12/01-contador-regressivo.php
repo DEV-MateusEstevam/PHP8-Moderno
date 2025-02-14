@@ -13,9 +13,7 @@
             echo "$c ";
             $c--;
         } while($c>=1);
-        
     ?>
 </div>
 </body>
 </html>
- 
